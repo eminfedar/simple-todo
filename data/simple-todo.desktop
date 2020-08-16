@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Simple Todo
+Version=1.0
+Exec=simple-todo
+Comment=Simple To-Do app.
+Comment[tr]=Basit yapılacaklar listesi uygulaması.
+Icon=simple-todo
+Type=Application
+Terminal=false
+StartupNotify=true
+Encoding=UTF-8
+Categories=Utility;

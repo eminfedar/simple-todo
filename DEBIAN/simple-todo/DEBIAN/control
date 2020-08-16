@@ -1,0 +1,7 @@
+Package: simple-todo
+Version: 1.0
+Maintainer: Emin Fedar <eminfedar@gmail.com>
+Description: Simple ToDo app.
+Homepage: https://github.com/eminfedar/simple-todo
+Architecture: amd64
+Depends: libgtk-3-0, libpango-1.0-0
